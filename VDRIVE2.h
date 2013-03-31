@@ -1,3 +1,13 @@
+/*
+
+	VDRIVE2 Library
+	An Arudino Library for basic control of the FTDI VDRIVE2
+	Uses Vinculum firmware
+	Created by Matt Westwick on 3/31/2013
+	Released into the public domain under the GPL licence
+
+*/
+
 #ifndef VDRIVE2_h
 #define VDRIVE2_h
 
