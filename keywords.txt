@@ -1,6 +1,6 @@
 VDRIVE2	KEYWORD1
 Initialize	KEYWORD2
-Openfile	KEYWORD2
+OpenFile	KEYWORD2
 WriteFileData	KEYWORD2
 WriteFileString	KEYWORD2
 CloseFile	KEYWORD2
